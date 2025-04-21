@@ -1,3 +1,2 @@
 # Memo
-The Game Memo
-This is a game Tower Up Memo by Batuhan Fatih Dilli.
+This is game made by Batuhan Fatih Dilli in 2022.
