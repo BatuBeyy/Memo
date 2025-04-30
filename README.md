@@ -8,9 +8,9 @@
 
 ## What Is This Tower Up:Memo ? 🤔
 
-- I wanted to try to make the my own game for introduction to Unity.
-- It's a my first prototype game.
-- Feel free ask anything 
+- I wanted to create my own game as an introduction to Unity.
+- This is my first prototype game, where I focused on learning and applying core game development concepts.
+- Feel free to ask any questions regarding the project.
 
 ## Preview
 
