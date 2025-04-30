@@ -8,7 +8,7 @@
 
 ## What Is This Tower Up:Memo ? 🤔
 
-- I wanted to create my own game as an introduction to Unity.
+- A 2D platformer where the player must progress upwards by defeating robots that block their way, while avoiding falling.
 - This is my first prototype game, where I focused on learning and applying core game development concepts.
 - Feel free to ask any questions regarding the project.
 
