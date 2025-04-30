@@ -26,7 +26,7 @@
 
 ## Used Technologies
 
-- I developed a 2D platformer game using Unity and C#.
+- I developed this game using Unity and C#.
 - The game includes mechanics such as jumping, shooting, enemy AI (robots), and player movement.
 - I implemented collision detection, a health system with a slider UI, and basic animations for the player.
 - I used free assets from Bayat Games to accelerate development and focus on gameplay mechanics.
